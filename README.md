@@ -33,9 +33,9 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 - [X] Select rows and columns relevant to your research question. (15 pt)
 
 **Explore and clean the data by: (20 pt)**
-- [ ] Exploring data using descriptive statistics or visualisations to get to know the dataset and spot possible issues (such as outliers or typos)(10 pt)
-- [ ] Identify and report issues with missing data. (5 pt)
-- [ ] Resolve issues with missing data and clean other data inconsistencies. Report also if you found no issues and how you verified this. (5 pt)
+- [X] Exploring data using descriptive statistics or visualisations to get to know the dataset and spot possible issues (such as outliers or typos)(10 pt)
+- [X] Identify and report issues with missing data. (5 pt)
+- [X] Resolve issues with missing data and clean other data inconsistencies. Report also if you found no issues and how you verified this. (5 pt)
 
 **Describe and visualise: (50 pt)**
 - [ ] Provide a description of the population for the reader (e.g. countries or continents) relevant to your question using a table with descriptive statistics (i.e. means, medians, standard deviations) and where possible visualisation. (15pt)
