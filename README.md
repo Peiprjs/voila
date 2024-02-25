@@ -29,8 +29,8 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 - [ ] Formulate a research question that allows for explorations and comparisons. For example: How have vaccinations influenced hospitalizations in different European Union (EU) countries? You can divide this in two steps: 1. How vaccinations have influenced hospitalizations in a country (i.e Netherlands or Italy); 2. How does one country compare to the other countries in the EU? (5 pt)
 
 **Data preparation: (20 pt)**
-- [ ] Load the dataset using this link for health factors dataLinks to an external site.. Copy the link and load it as you did in the practicals. (5 pt)
-- [ ] Select rows and columns relevant to your research question. (15 pt)
+- [X] Load the dataset using this link for health factors dataLinks to an external site.. Copy the link and load it as you did in the practicals. (5 pt)
+- [X] Select rows and columns relevant to your research question. (15 pt)
 
 **Explore and clean the data by: (20 pt)**
 - [ ] Exploring data using descriptive statistics or visualisations to get to know the dataset and spot possible issues (such as outliers or typos)(10 pt)
