@@ -43,4 +43,4 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 - [X] Turn your interactive report into an application using GitHub, Voila and Binder.** (15pt)
 
 **Conclusion: (5 pt)**
-- [ ] Summarise the work and the main findings related to the initial research question. (5 pt)
+- [X] Summarise the work and the main findings related to the initial research question. (5 pt)
