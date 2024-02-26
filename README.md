@@ -39,7 +39,7 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 
 **Describe and visualise: (50 pt)**
 - [X] Provide a description of the population for the reader (e.g. countries or continents) relevant to your question using a table with descriptive statistics (i.e. means, medians, standard deviations) and where possible visualisation. (15pt)
-- [ ] Make the report interactive: Create at least one interactive visualisation using input from the user. (20pt)
+- [X] Make the report interactive: Create at least one interactive visualisation using input from the user. (20pt)
 - [X] Turn your interactive report into an application using GitHub, Voila and Binder.** (15pt)
 
 **Conclusion: (5 pt)**
