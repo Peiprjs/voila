@@ -26,7 +26,7 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 
 ## TASKS
 **Introduction: (5 pt)**
-- [ ] Formulate a research question that allows for explorations and comparisons. For example: How have vaccinations influenced hospitalizations in different European Union (EU) countries? You can divide this in two steps: 1. How vaccinations have influenced hospitalizations in a country (i.e Netherlands or Italy); 2. How does one country compare to the other countries in the EU? (5 pt)
+- [X] Formulate a research question that allows for explorations and comparisons. For example: How have vaccinations influenced hospitalizations in different European Union (EU) countries? You can divide this in two steps: 1. How vaccinations have influenced hospitalizations in a country (i.e Netherlands or Italy); 2. How does one country compare to the other countries in the EU? (5 pt)
 
 **Data preparation: (20 pt)**
 - [X] Load the dataset using this link for health factors dataLinks to an external site.. Copy the link and load it as you did in the practicals. (5 pt)
@@ -38,7 +38,7 @@ For more details, check out the Voilà documentation on https://voila.readthedoc
 - [X] Resolve issues with missing data and clean other data inconsistencies. Report also if you found no issues and how you verified this. (5 pt)
 
 **Describe and visualise: (50 pt)**
-- [ ] Provide a description of the population for the reader (e.g. countries or continents) relevant to your question using a table with descriptive statistics (i.e. means, medians, standard deviations) and where possible visualisation. (15pt)
+- [X] Provide a description of the population for the reader (e.g. countries or continents) relevant to your question using a table with descriptive statistics (i.e. means, medians, standard deviations) and where possible visualisation. (15pt)
 - [ ] Make the report interactive: Create at least one interactive visualisation using input from the user. (20pt)
 - [X] Turn your interactive report into an application using GitHub, Voila and Binder.** (15pt)
 
